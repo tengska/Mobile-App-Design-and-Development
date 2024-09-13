@@ -50,12 +50,17 @@ I chose to start the App by guided prompted window. I was confused, as the writ-
 ##Sources
 ```python
 Electric sources
-Academind (2019). Which one is best for you? Flutter, React Native, Ionic or Na-tiveScript? [YouTube video]. [Accessed 13.9.2024]. Available:
-(https://www.youtube.com/watch?v=PKRXbLnfXXk&ab_channel=Academind) 
-Alves, P. (2021). Ionic Tutorial #1 - Overview, installation and creating the pro-ject. [YouTube video]. [Accessed 13.9.2024]. Available: (https://youtu.be/5Gj4Y8zvl-s) 
-Hamedani, M. (2018). JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour. [YouTube video]. [Accessed 13.9.2024]. Available: (https://youtu.be/W6NZfCO5SIk)
-Ionic Framework. Environment Setup. [Accessed 13.9.2024]. Available: (https://ionicframework.com/docs/intro/environment)
-Ionic Framework. Installing Ionic. [Accessed 13.9.2024]. Available: (https://ionicframework.com/docs/intro/cli)
+Academind (2019). Which one is best for you? Flutter, React Native, Ionic or Na-tiveScript? [YouTube video]. [Accessed 13.9.2024]. Available: https://www.youtube.com/watch?v=PKRXbLnfXXk&ab_channel=Academind
+
+Alves, P. (2021). Ionic Tutorial 1 - Overview, installation and creating the pro-ject. [YouTube video]. [Accessed 13.9.2024]. Available: https://youtu.be/5Gj4Y8zvl-s
+
+Hamedani, M. (2018). JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour. [YouTube video]. [Accessed 13.9.2024]. Available: https://youtu.be/W6NZfCO5SIk
+
+Ionic Framework. Environment Setup. [Accessed 13.9.2024]. Available: https://ionicframework.com/docs/intro/environment
+
+Ionic Framework. Installing Ionic. [Accessed 13.9.2024]. Available: https://ionicframework.com/docs/intro/cli
+
 Rathod, P. (2024). Configure Mobile App Development Environment. HANDS-ON LAB-WORK-1. [pdf document]. [Accessed 13.9.2024].
-Sluiter, S. (2021). How to develop cross platform apps. [YouTube video]. [Ac-cessed 13.9.2024]. Available: (https://youtu.be/AlyTBd4tuMs)
+
+Sluiter, S. (2021). How to develop cross platform apps. [YouTube video]. [Ac-cessed 13.9.2024]. Available: https://youtu.be/AlyTBd4tuMs
 ```
