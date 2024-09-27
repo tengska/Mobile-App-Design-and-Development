@@ -1,1 +1,0 @@
-Labwork-6 readme file
