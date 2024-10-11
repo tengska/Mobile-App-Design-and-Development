@@ -1,0 +1,7 @@
+{
+  "name": "Task-1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
