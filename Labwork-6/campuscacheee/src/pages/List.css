@@ -1,0 +1,13 @@
+ion-item:hover {
+    --background: #d9d9d9;
+    --color: var(--ion-color-dark);
+  }
+  
+  ion-item {
+    --padding-start: 20px;
+  }
+  
+  ion-item::part(detail-icon) {
+    color: #1e1e1e;
+    opacity: 1;
+  }
